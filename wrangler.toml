@@ -1,0 +1,14 @@
+name = "nvunheard-shop"
+main = "index.js"
+
+compatibility_date = "2025-04-08"
+
+type = "javascript"
+
+account_id = "d6824a9e7304b42a0b48cdf2ed1e52d9"
+workers_dev = false
+route = "shop.nvunheard.org/*"
+zone_id = "c12b5879172c18d7217fcd0d4357915e"
+
+[build]
+upload.format = "modules"
